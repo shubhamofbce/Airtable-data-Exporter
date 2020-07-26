@@ -19,3 +19,9 @@
 14. You will need to repeat step 13 for all your tables.
 15. Congrats! ALl your data is in your local database now.
 ### You saved a lots of dollars. Congrats!
+
+
+#### TODO
+1. Add Unit Tests for the classes.
+2. Reduce the number of steps to make this process more easier.
+3. Increase accuracy of loading data.
